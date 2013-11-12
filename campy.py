@@ -1,5 +1,5 @@
 #this is a dummy file
 from __future__ import division
-print 3/2
+print "The result of 3/2 is {0:3f}" .format(3/2)
 
 
